@@ -1,7 +1,7 @@
 # GrupDenemesi
 Görevler:
-Toplama
-Çıkarma
-Çarpma
-Bölme
-Tasarım
+Toplama/hamdiye
+Çıkarma/hamdiye
+Çarpma/samed
+Bölme/samed
+Tasarım/fatmanur
